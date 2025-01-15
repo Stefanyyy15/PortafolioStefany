@@ -1,7 +1,9 @@
 # Portafolio Stefany
 Este portafolio personal fue desarrollado para mostrar mi trabajo como Desarrolladora de Software. Está diseñado para ser una representación dinámica de mis habilidades y proyectos, utilizando tecnologías web como HTML y CSS. A través de este sitio, los visitantes pueden explorar mis habilidades técnicas, mis proyectos más relevantes, y conocer un poco más sobre mí. Cada sección está estructurada para proporcionar una visión clara de mi enfoque en el desarrollo de soluciones tecnológicas creativas y colaborativas. Además, incluye enlaces a mis perfiles profesionales y una forma de contacto directa.
 
-## Table of Contents 
+![imegenPrincipal](background/imagenPortafolio.png)
+
+## Tabla de contenido
 
 | Index | Titulo |
 | ------ | --------------- |
@@ -21,7 +23,7 @@ Listado de tecnologías utilizadas en el proyecto:
 
 - **CSS**: Lenguaje de estilo utilizado para dar formato y diseñar el aspecto visual del sitio web. Con CSS se controla el diseño, los colores, las fuentes y la disposición de los elementos en la página.
 
-## Installation
+## Instalacion
 
 Clone the project
 
@@ -40,6 +42,10 @@ Go to file
 ```bash
   code .
 ```
+## Video
+
+- **Link**: [https://drive.google.com/file/d/1M7TAWPz0Rqyf3JyBhOFwBp5hzQ_FpMwL/view?usp=sharing](https://drive.google.com/file/d/1M7TAWPz0Rqyf3JyBhOFwBp5hzQ_FpMwL/view?usp=sharing)
+
 ## FAQs
 Lista de preguntas frecuentes:
 1. ¿Cómo puedo contribuir al proyecto?
